@@ -1,6 +1,6 @@
-<img alt="logo" src="https://raw.githubusercontent.com/riecho14/Dendam-Si-Tikus/image_assets/logo.svg" width="400">
+<img alt="logo" src="https://raw.githubusercontent.com/riecho14/Docker-Dendam-Si-Tikus/image_assets/logo.svg" width="400">
 
-> Dendam si tikus. Proyek ini adalah proyek game menggunakan pygame.
+> Containerize Pygame with Docker.
 
 ## Nama dan NIM Anggota Kelompok
 | Nama | NIM | Github |
