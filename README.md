@@ -13,7 +13,7 @@
 | Andri Setiawan             | 120140191 | [Andri450](https://github.com/Andri450)                   |
 
 ## Dendam Si Tikus
-#### Deskripsi projek
+#### Deskripsi Projek
 Aplikasi ini merupakan permainan tentang seekor tikus yang berusaha mengalahkan kucing dengan cara menyerang para kucing menggunakan racun. Permainan ini bertujuan untuk mendapatkan score sebanyak-banyaknya dengan cara menghindari dan mengalahkan para kucing yang berdatangan. Nyawa Tikus akan berkurang saat kucing menyentuh tikus. Permainan ini akan berakhir jika nyawa tikus telah habis.
 
-## Cara menjalankan kontainer
+## Cara Menjalankan Kontainer
