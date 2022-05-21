@@ -8,7 +8,7 @@
 | Mila Oktaviani             | 120140021 | [milaoktvni31](https://github.com/milaoktvni31)           |
 | Bayu Nindioko              | 120140088 | [BayuNindioko](https://github.com/BayuNindioko)           |
 | Naufal Rotif Dewanto       | 120140107 | [naufaldewanto37](https://github.com/naufaldewanto37)     |
-| Azka Muzhaffar Sutawidjaja | 120140111 | -                                                         |
+| Azka Muzhaffar Sutawidjaja | 120140111 | [Zkaaaaaaa](https://github.com/Zkaaaaaaa)                 |
 | Ericho Aldo Firano         | 120140119 | [riecho14](https://github.com/riecho14)                   |
 | Andri Setiawan             | 120140191 | [Andri450](https://github.com/Andri450)                   |
 
