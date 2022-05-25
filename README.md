@@ -25,6 +25,10 @@ Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah 
 
     make build-dendamsitikus
 
+lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
+
+    docker images
+
 Jika proses build telah selesai, jalankan perintah run seperti berikut:
 
 untuk Windows
@@ -39,7 +43,7 @@ untuk Mac
 
     make run-mac
 
-Langlah terakhir yaitu menjalankan pygame melalui container yang telah kita buat dengan perintah seperti berikut:
+Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat dengan perintah seperti berikut:
 
     python3 -m main.py
 
