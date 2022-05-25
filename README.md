@@ -23,7 +23,7 @@ Clone repositori ini atau [unduh disini](https://github.com/riecho14/Docker-Dend
 
 Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
 
-    make build
+    make build-dendamsitikus
 
 Jika proses build telah selesai, jalankan perintah run seperti berikut:
 
