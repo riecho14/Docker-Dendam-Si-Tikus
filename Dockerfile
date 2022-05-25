@@ -28,3 +28,23 @@ RUN apt-get update && apt-get upgrade -y && apt-get install -y \
     libsdl2-ttf-dev \
     libsdl2-gfx-dev \
     libsdl2-net-dev
+
+# install x11
+RUN apt install -qqy x11-apps
+
+# install pygame
+RUN pip3 install pygame
+
+# menambahkan parameter build argument
+ARG USER=docker
+ARG UID=1000
+ARG GID=1000
+
+# menambahkan default password untuk user
+ARG PW=docker
+RUN useradd -m ${USER} --uid=${UID} --shell /bin/bash && echo "${USER}:${PW}" | chpasswd \
+    && adduser docker sudo
+
+# Setup default user, ketika memasuki kontainer
+USER ${UID}:${GID}
+WORKDIR /home/${USER}
