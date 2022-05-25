@@ -21,7 +21,7 @@ Clone repositori ini atau [unduh disini](https://asset.kompas.com/crops/SV5q4gPk
 
 ![1](https://github.com/riecho14/Docker-Dendam-Si-Tikus/blob/a2eb90dc3131332f08d6dcbeefd0014c4d22d89b/1.png)
 
-Selanjutnya buka terminal pada direktori tersebut lalu jalankan perintah build seperti berikut:
+Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
 
     make build
 
