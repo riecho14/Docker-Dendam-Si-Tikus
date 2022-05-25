@@ -19,5 +19,5 @@ Aplikasi ini merupakan permainan yang dibuat menggunakan library pygame tentang 
 ## Cara Menjalankan Kontainer
 
 ## Video Rekaman
-[![LIHAT VIDEO DISINI](https://img.youtube.com/vi/ZRctNcWSxNk&ab/0.jpg)](https://www.youtube.com/watch?v=ZRctNcWSxNk&ab "Understandable Conversation Between Kobo and Crazy Dave 【Kobo Kanaeru Clip】")
+[![LIHAT VIDEO DISINI](https://yt-embed.herokuapp.com/embed?v=ZRctNcWSxNk&ab)](https://www.youtube.com/watch?v=ZRctNcWSxNk&ab "Understandable Conversation Between Kobo and Crazy Dave 【Kobo Kanaeru Clip】")
 
