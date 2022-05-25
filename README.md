@@ -19,5 +19,5 @@ Aplikasi ini merupakan permainan yang dibuat menggunakan library pygame tentang 
 ## Cara Menjalankan Kontainer
 
 ## Video Rekaman
-[![LIHAT VIDEO DISINI](https://img.youtube.com/vi/ZRctNcWSxNk&ab_channel=RhiiCh./0.jpg)](https://www.youtube.com/watch?v=ZRctNcWSxNk&ab_channel=RhiiCh.)
+[![LIHAT VIDEO DISINI](https://img.youtube.com/vi/ZRctNcWSxNk&ab/0.jpg)](https://www.youtube.com/watch?v=ZRctNcWSxNk&ab)
 
