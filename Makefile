@@ -1,4 +1,4 @@
-build:
+build-dendamsitikus:
 	docker build . -t dendamsitikus
 
 xhost:
