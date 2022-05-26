@@ -48,4 +48,4 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
     python3 -m main.py
 
 ## Video Demo Kontainer
-[![LIHAT VIDEO DISINI](https://yt-embed.herokuapp.com/embed?v=ZRctNcWSxNk&ab)](https://www.youtube.com/watch?v=ZRctNcWSxNk&ab "Understandable Conversation Between Kobo and Crazy Dave 【Kobo Kanaeru Clip】")
+[![LIHAT VIDEO DISINI](https://yt-embed.herokuapp.com/embed?v=ZRctNcWSxNk&ab)](https://www.youtube.com/watch?v=SO_tl0iAmhU)
