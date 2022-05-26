@@ -1,4 +1,4 @@
-build-dendamsitikus:
+build:
 	docker build . -t dendamsitikus
 
 xhost:
@@ -21,5 +21,14 @@ run-linux:	xhost
 	-v ${XDG_RUNTIME_DIR}/pulse/native:${XDG_RUNTIME_DIR}/pulse/native \
 	-v /run/user/1000/pulse:/run/user/1000/pulse \
 	-v /var/run/dbus:/var/run/dbus \
+	-v ~/Downloads:/home/docker \
+	dendamsitikus
+
+run-mac:	xhost
+	docker run --privileged -it --rm -u 1000:1000 \
+	--cap-add=SYS_PTRACE \
+	-v /tmp/.X11-unix:/tmp/.X11-unix \
+	-e DISPLAY=docker.for.mac.host.internal:0 \
+	-v ~/.config/pulse:/run/user/1000/pulse \
 	-v ~/Downloads:/home/docker \
 	dendamsitikus
