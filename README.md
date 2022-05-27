@@ -48,4 +48,7 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
     python3 -m main.py
 
 ## Video Demo Kontainer
-[![LIHAT VIDEO DISINI](https://yt-embed.herokuapp.com/embed?v=ZRctNcWSxNk&ab)](https://www.youtube.com/watch?v=SO_tl0iAmhU)
+
+[![LIHAT VIDEO DISINI](http://img.youtube.com/vi/SO_tl0iAmhU/0.jpg)](http://www.youtube.com/watch?v=SO_tl0iAmhU)
+
+KLIK GAMBAR UNTUK MELIHAT VIDEO
